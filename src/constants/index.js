@@ -42,10 +42,10 @@ export const EXPERIENCES = [
 
 export const PROJECTS = [
   {
-    title: "Anywhere mechanic Website",
+    title: "BinkeyIt– Online Grocery Delivery Platform",
     image: project1,
     description:
-      "Anywhere Mechanic is a service platform that connects users with mechanics for vehicle repair and maintenance",
+      "BinkeyIt is a service platform that connects users with Retailers to sell their goods in local area as well as customer get quciker service",
     technologies: ["HTML", "CSS", "React", "Node.js", "MongoDB"],
   },
   {
@@ -63,10 +63,10 @@ export const PROJECTS = [
     technologies: ["HTML", "CSS", "React", "Bootstrap"],
   },
   {
-    title: "Traning and Placement Website",
+    title: "Fitness Tracker ",
     image: project4,
     description:
-      "A website that allows students to view job listings, apply for positions, and track their application status",
+      "A website that allows customers to view their daily fitness and calories burn to kep them motivated for their health.",
     technologies: ["HTML", "CSS", "Vue.js", "Express", "mySQL"],
   },
 ];
